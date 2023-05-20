@@ -8,5 +8,4 @@ lengthy coding processes and tasks.
 
 ## Documentation
 
-@ - Sign for a special keyphrase in a name in the docs \n 
-@c - Console-Based Input/Output Operations
+c (in function name) - Console-Based Input/Output Operations
